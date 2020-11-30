@@ -1,15 +1,13 @@
-{ [
-    {
-      "Name": "Dios",
-      "Id": 1,
-      "Score": 100,
-      "Type": "Anti-Mage"
-    },
-    {
-      "Name": "Satan",
-      "Id": 2,
-      "Score": 50,
-      "Type": "Arc Warden"
-    }
-  ]
-}
+[{
+		"name": "Dios",
+		"id": 1,
+		"score": 100,
+		"type": "Anti-Mage"
+	},
+	{
+		"name": "Satan",
+		"id": 2,
+		"score": 50,
+		"type": "Arc Warden"
+	}
+]
