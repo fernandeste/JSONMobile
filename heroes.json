@@ -1,0 +1,16 @@
+{
+  "Heroes": [
+    {
+      "Name": "Dios",
+      "Id": 1,
+      "Score": 100,
+      "Type": "Anti-Mage"
+    },
+    {
+      "Name": "Satan",
+      "Id": 2,
+      "Score": 50,
+      "Type": "Arc Warden"
+    }
+  ]
+}
