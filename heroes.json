@@ -4,6 +4,12 @@
 		"score": 100,
 		"type": "Anti-Mage"
 	},
+ 	{
+		"name": "Lolo",
+		"id": 3,
+		"score": 8,
+		"type": "Player"
+	},
 	{
 		"name": "Satan",
 		"id": 2,
