@@ -5,7 +5,7 @@
 		"type": "Anti-Mage"
 	},
 	{
-		"name": "Satan",
+		"name": "Sata",
 		"id": 2,
 		"score": 50,
 		"type": "Arc Warden"
@@ -23,37 +23,37 @@
 		"type": "Player"
 	},
  	{
-		"name": "SìderMan",
+		"name": "Spie",
 		"id": 5,
 		"score": 65,
 		"type": "Spider"
 	},
  	{
-		"name": "Ironman",
+		"name": "Jinx",
 		"id": 6,
 		"score": 89,
 		"type": "Tec"
 	},
  	{
-		"name": "Panter",
+		"name": "Pane",
 		"id": 7,
 		"score": 54,
 		"type": "Player"
 	},
  	{
-		"name": "Luckmen",
+		"name": "Luck",
 		"id": 8,
 		"score": 548,
 		"type": "Player"
 	},
  	{
-		"name": "Gandalf",
+		"name": "Gand",
 		"id": 9,
 		"score": 120,
 		"type": "Mage"
 	},
  	{
-		"name": "Legolas",
+		"name": "Lego",
 		"id": 10,
 		"score": 180,
 		"type": "Elf"
