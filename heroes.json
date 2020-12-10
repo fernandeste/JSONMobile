@@ -9,7 +9,7 @@
 		"id": 2,
 		"score": 50,
 		"type": "Arc Warden"
-	}
+	},
  	{
 		"name": "Lolo",
 		"id": 3,
@@ -57,5 +57,5 @@
 		"id": 10,
 		"score": 180,
 		"type": "Elf"
-	},
+	}
 ]
